@@ -1,5 +1,5 @@
 const github_url = "https://api.github.com/repos/spikespaz/EssentialAdditions";
-const curse_url = "https://widget.mcf.li/mc-mods/minecraft/259003-essential-additions.json";
+const curse_url = "https://api.cfwidget.com/mc-mods/minecraft/259003-essential-additions";
 const files_base = "https://minecraft.curseforge.com/projects/essential-additions/files/";
 
 $(document).ready(function () {
